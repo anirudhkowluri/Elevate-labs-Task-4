@@ -2,7 +2,7 @@
 
 Import Libraries: Loads essential libraries for data analysis, machine learning, and visualization (pandas, numpy, scikit-learn, matplotlib, seaborn).
 
-Load Data: Reads the breast cancer dataset from a CSV file.
+Load Data: Reads the breast cancer dataset from a CSV file(breast cancer csv).
 
 Initial Data Exploration: Displays the first and last few rows, summary statistics, info, shape, and checks for missing values.
 
@@ -24,4 +24,4 @@ Calculates confusion matrix, precision, recall, and ROC-AUC.
 Plots the ROC curve.
 Threshold Tuning: Finds the best threshold using Youden’s J statistic to optimize classification.
 
-Save Results: Saves the test set predictions and probabilities to a new CSV file.
+Save Results: Saves the test set predictions and probabilities to a new CSV file(cleaned csv).
